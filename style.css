@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Outfit', sans-serif;
 }
 
 :root {
@@ -27,6 +26,7 @@ body {
     justify-content: center;
     align-items: center;
     position: relative;
+    font-family: 'Outfit', sans-serif;
 }
 
 main {
@@ -64,13 +64,6 @@ h1 {
 .container p:first-of-type {
     font-size: .9375rem;
     color: var(--soft-blue);
+    text-align: left;
 }
 
-/*.attribution {
-    position: absolute;
-    bottom: 0;
-    right: 10px;
-}
-
-  .attribution { font-size: 11px; text-align: center; }
-  .attribution a { color: hsl(228, 45%, 44%); }*/
