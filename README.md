@@ -11,8 +11,8 @@ This is my solution to the NFT preview card component challenge on Frontend Ment
 
 ## Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-LmMOw191I1
-- Live Site URL: https://joyce-souza.github.io/qr-code-component/
+- Solution URL: 
+- Live Site URL: https://joyce-souza.github.io/NFT-preview-card-component/
 
 ## Built with
 
