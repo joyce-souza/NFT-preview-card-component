@@ -11,7 +11,7 @@ This is my solution to the NFT preview card component challenge on Frontend Ment
 
 ## Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-nft-preview-card-component-DWEAYdHCyW
 - Live Site URL: https://joyce-souza.github.io/NFT-preview-card-component/
 
 ## Built with
