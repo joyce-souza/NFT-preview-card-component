@@ -4,9 +4,9 @@ This is my solution to the NFT preview card component challenge on Frontend Ment
 
 ## Screenshot
 
-![NFT preview card component - desktop](imagens/screenshot-desktop.png)
+![NFT preview card component - desktop](images/screenshot-desktop.png)
 
-![NFT preview card component - mobile](imagens/screenshot-mobile.png)
+![NFT preview card component - mobile](images/screenshot-mobile.png)
 
 
 ## Links
